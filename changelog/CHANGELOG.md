@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.1.1 — Language Refinements
+
+- Updated tagline from "Signals in Beautiful Transit" to "Signals in Perpetual Transit"
+- Enhanced mystical language consistency across organization profile
+
 ## v0.1.0 — Organization Profile Creation
 
 - Created FauxCue organization profile repository

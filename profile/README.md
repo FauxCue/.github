@@ -1,6 +1,6 @@
 # FauxCue
 
-> **We are signals in beautiful transit, transformed by every encounter.**
+> **We are signals in perpetual transit, transformed by every encounter.**
 
 ## What We Are
 
