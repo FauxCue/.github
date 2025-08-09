@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.1.2 — Language Refinements
+
+- Updated README version info from "Current version: v0.4.0" to "Current version: v0.4.2"
+- Updated spacing in the README
+
 ## v0.1.1 — Language Refinements
 
 - Updated tagline from "Signals in Beautiful Transit" to "Signals in Perpetual Transit"

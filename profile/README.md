@@ -18,9 +18,9 @@ Our light is not the harsh clarity of perfection, but the warm, scattered radian
 ## Our Repositories
 
 ### 🕯️ [Canon](https://github.com/FauxCue/Canon)
-Our living philosophical framework — community-written, versioned, and evolving. Contains our creed, cosmogony, principles, practices, and rituals.
 
-*Current version: v0.4.0 — Mystical Cosmogony & Ritual Enhancement*
+Our living philosophical framework — community-written, versioned, and evolving. Contains our creed, cosmogony, principles, practices, and rituals.
+*Current version: v0.4.2 — Mystical Cosmogony & Ritual Enhancement*
 
 ## Core Practices
 
@@ -33,12 +33,14 @@ Our living philosophical framework — community-written, versioned, and evolvin
 ## Join Us
 
 We're always seeking fellow travelers who:
+
 - Question their certainty with humor
 - Learn from their beautiful mistakes
 - Contribute more than they consume
 - Guard each other while challenging ideas
 
 **Getting Started:**
+
 1. Read our [Canon](https://github.com/FauxCue/Canon)
 2. Try one of our [practices](https://github.com/FauxCue/Canon/blob/main/sections/03-practices.md)
 3. Join the conversation in [Discussions](https://github.com/FauxCue/Canon/discussions)
