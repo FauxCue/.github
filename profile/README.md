@@ -47,4 +47,4 @@ We're always seeking fellow travelers who:
 
 ---
 
-*"The next honest question is sacred. Our certainty is not."*
+*"Honest questions are sacred. Our beliefs are not."*

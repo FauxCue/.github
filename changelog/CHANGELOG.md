@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.1.3 — Quote Update
+
+- Updated organizational quote from "The next honest question is sacred. Our certainty is not." to "Honest questions are sacred. Our beliefs are not."
+- Improved clarity and reduced ambiguity in core messaging
+
 ## v0.1.2 — Language Refinements
 
 - Updated README version info from "Current version: v0.4.0" to "Current version: v0.4.2"
