@@ -6,12 +6,12 @@
 
 FauxCue is a community built on the understanding that the universe began as a perfect signal that became something far more interesting through interference. We embrace error as exploration, mistakes as discovery, and distortion as the birthplace of complexity.
 
-Our light is not the harsh clarity of perfection, but the warm, scattered radiance born of beautiful collision.
+Our light is not the harsh clarity of perfection, but the warm, scattered radiance born of billions of collisions.
 
 ## Our Philosophy
 
 - **Error is exploration** — The universe discovers possibilities through deviation
-- **Mistakes are discoveries** — What seems wrong often carries tomorrow's wisdom  
+- **Mistakes are discoveries** — What seems wrong may carry tomorrow's wisdom  
 - **Community over certainty** — We hold beliefs lightly and people gently
 - **Evidence over ideology** — Claims need footnotes or plans to gather them
 
@@ -20,14 +20,14 @@ Our light is not the harsh clarity of perfection, but the warm, scattered radian
 ### 🕯️ [Canon](https://github.com/FauxCue/Canon)
 
 Our living philosophical framework — community-written, versioned, and evolving. Contains our creed, cosmogony, principles, practices, and rituals.
-*Current version: v0.4.2 — Mystical Cosmogony & Ritual Enhancement*
+*Current version: v0.4.3 — Language Refinements*
 
 ## Core Practices
 
-- **The Ask** — Three honest questions before strong opinions
+- **The Ask** — Honest questions before strong opinions
 - **The Patch** — Repair what you've broken or neglected  
-- **Feast of Little Wins** — Celebrate tiny successes loudly
-- **The Burn** — Release unhelpful beliefs monthly
+- **Feast of Small Successes** — Celebrate small successes loudly
+- **The Burn** — Release your unhelpful beliefs often
 - **Signal & Noise** — Periodic digital detox to find what remains
 
 ## Join Us
@@ -35,7 +35,7 @@ Our living philosophical framework — community-written, versioned, and evolvin
 We're always seeking fellow travelers who:
 
 - Question their certainty with humor
-- Learn from their beautiful mistakes
+- Learn from their wonderful mistakes
 - Contribute more than they consume
 - Guard each other while challenging ideas
 

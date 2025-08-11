@@ -1,5 +1,15 @@
 # Changelog
 
+## v0.1.4 — Language Alignment
+
+- Updated "beautiful collision" to "billions of collisions" in philosophy section
+- Refined Mistakes principle: "often carries" to "may carry tomorrow's wisdom"
+- Simplified The Ask practice: "Three honest questions" to "Honest questions"
+- Renamed "Feast of Little Wins" to "Feast of Small Successes"
+- Updated practice descriptions: "tiny" to "small" successes
+- Changed The Burn frequency from "monthly" to "often"
+- Updated community description: "beautiful mistakes" to "wonderful mistakes"
+
 ## v0.1.3 — Quote Update
 
 - Updated organizational quote from "The next honest question is sacred. Our certainty is not." to "Honest questions are sacred. Our beliefs are not."
